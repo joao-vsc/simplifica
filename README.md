@@ -1,3 +1,8 @@
+# Simplifica.
+Uma plataforma que ajuda o cidadão comum com os seus dilemas diários.
+Visita-nos em https://joao-vsc.github.io/simplifica
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
